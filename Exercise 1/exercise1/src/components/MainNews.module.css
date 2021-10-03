@@ -1,0 +1,16 @@
+.container {
+    background-color: #fff;
+    width: 90%;
+    float: left;
+    padding: 20px;
+    border-top: solid black 1px;
+    
+}
+
+h2 {
+    color: #b7384b;
+}
+
+.NewsText {
+    color: black;
+}

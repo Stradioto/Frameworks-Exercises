@@ -1,1 +1,1 @@
-# Frameworks-Exercises
+Frameworks course exercises

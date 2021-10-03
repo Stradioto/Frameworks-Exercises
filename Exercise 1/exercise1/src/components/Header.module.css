@@ -1,0 +1,47 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #00194c;
+    color: #fff;
+    height: 70px;
+    margin-bottom: 10px;
+}
+
+
+
+.HeaderTitles {
+    padding-right: 45px;
+}
+
+.HeaderTitleB {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.HeaderTitleButton {
+    background-color: #fff;
+    color: black;
+    border-radius: 500px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.HeaderTitleMenu {
+    border: solid black 1px ;
+    border-radius: 15%;
+    padding: 5px;
+}
+
+.HeaderBackground {
+    width: 80%;
+    margin-right: 70px;
+}
+
+
+.JournalHeaderTitle {
+    font-size: 25px;
+    padding-right: 50px;
+}

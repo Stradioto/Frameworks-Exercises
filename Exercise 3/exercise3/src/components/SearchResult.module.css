@@ -1,0 +1,10 @@
+.Products {
+    display: inline-block;
+    flex-direction:row;
+    align-items: center;
+    margin-left: 85px;
+    margin-top: 10px;
+    border: solid black 1px;
+    background-color: rgb(70, 51, 51);
+  }
+

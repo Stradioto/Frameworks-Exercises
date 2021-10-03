@@ -1,0 +1,42 @@
+{
+    "items": 
+    [
+        {
+            "id": 1,
+            "name": "Jumping rope",
+            "brand": "Elastomero",
+            "price": 4.99,
+            "normalPrice": 8.00,
+            "rating": "Rating: 4.5/5",
+            "image": "jumprope.jpg",
+            "description": [
+                "Best product for jumping like a frog."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Plastic drinking bottle",
+            "brand": "GreenDrink",
+            "price": 9.99,
+            "normalPrice": 10.00,
+            "rating": "Rating: 5/5",
+            "image": "drinkingbottle.png",
+            "description": [
+                "A plastic bottle for poor people."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Foam drinking bottle",
+            "brand": "NotSoGreenDrink",
+            "price": 33.33,
+            "normalPrice": 50.00,
+            "rating": "Rating: 4/5",
+            "image": "drinkingbottle2.png",
+            "description": [
+                "A plastic bottle for rich people."
+            ]
+        }
+    ]
+      
+}
